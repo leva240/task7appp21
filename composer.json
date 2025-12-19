@@ -1,5 +1,5 @@
 {
-    "name": "leva/pizza-app",
+    "name": "leva240/task7-app_P21",
     "type": "project",
     "autoload": {
         "psr-4": {
@@ -7,7 +7,7 @@
         }
     },
     "require": {
-        "leva/pizza-library": "dev-main"
+        "leva240/pizza-library": "dev-main"
     },
     "repositories": [
         {
