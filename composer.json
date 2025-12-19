@@ -7,6 +7,12 @@
         }
     },
     "require": {
-        "leva/pizza-library": "^1.0"
-    }
+        "leva/pizza-library": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/leva240/task7-library_P21"
+        }
+    ]
 }
