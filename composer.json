@@ -1,5 +1,5 @@
 {
-    "name": "leva240/task7-app_P21",
+    "name": "leva240/task7appp21",
     "type": "project",
     "autoload": {
         "psr-4": {
@@ -7,12 +7,12 @@
         }
     },
     "require": {
-        "leva240/pizza-library": "dev-main"
+        "leva240/task7libraryp21": "dev-main"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/leva240/task7-library_P21"
+            "url": "https://github.com/leva240/task7libraryp21"
         }
     ]
 }
